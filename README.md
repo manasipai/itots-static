@@ -101,5 +101,4 @@ Pre-requisites Set Up in AWS Account
  CICD using AWS CodePipeline for static hosting
  
  How to set up and run project locally?
- 
  As we have used static hosting for this functionality just open the html files in Browser.
